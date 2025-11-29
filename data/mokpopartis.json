@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "ยังโอม",
+        "role": "ศิลปิน",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ37c0-cv7_W75rt8g2GJ3ZyOGVLSws0TXUlw&s"
+    },
+    {
+        "id": 2,
+        "name": "GH DEK GERN ROI",
+        "role": "ศิลปิน",
+        "image": "https://yt3.googleusercontent.com/zlelMLOCJGECA81MFwZWUxN-BNCAVa5fAOD-juUkY5Hgk_4HNE4Kt1oO47ZW9tWs1EKu7TiG_g=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "id": 3,
+        "name": "YUNGTARR",
+        "role": "ศิลปิน",
+        "image": "https://i1.sndcdn.com/artworks-ccuxw6KXFKOyydES-fMH6fA-t500x500.jpg"
+    },
+    {
+        "id": 4,
+        "name": "PUN",
+        "role": "ศิลปิน",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOmXvYsrjgQyX47GRlQ2KxEjxEE6WtPkrZXy-ujtPDomoCFFQPyp80bosFhIWJKf41D4&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Sexski",
+        "role": "ศิลปิน",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271a1d557946350e390e28665"
+    },
+    {
+        "id": 6,
+        "name": "SZA",
+        "role": "ศิลปิน",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0PuWFzW5PqDlTod-svepGhjfagJU-4EV_RjQxXzWNmOhhWxsV3JRhUruDbc2cYE08Fo&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "่Jeff Satur",
+        "role": "ศิลปิน",
+        "image":"https://www.myband.co.th/uploads/20240910/e7848fdcebbcbd493f29d1020ff76827.png"
+    },
+    {
+        "id": 8,
+        "name": "1 Mill",
+        "role": "ศิลปิน",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAf3Att-4qvVthcL9RUiFeHoUp9jsbMZ9qJA&s"
+    },
+    {
+        "id": 9,
+        "name": "LIL X",
+        "role": "ศิลปิน",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSavl_WHzuzvzjo6_rRi3zGiGLEcQIbFpDTvw&s"
+    },
+    {
+        "id": 10,
+        "name": "Saran",
+        "role": "ศิลปิน",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0mCN71OVQU6d7YdTGLXOg4aFdp6En1QsXEA&s"
+    }
+]

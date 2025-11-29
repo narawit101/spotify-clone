@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "รายการอัปเดตประจำสัปดาห์ของคุณจากแทร็กที่มีการเล่นมากที่สุดในขณะนี้ - ทั่วโลก",
+        "image": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg"
+    },
+    {
+        "id": 2,
+        "name": "รายการอัปเดตประจำสัปดาห์ของคุณจากแทร็กที่มีการเล่นมากที่สุดในขณะนี้ - ประเทศไทย",
+        "image": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_th_default.jpg"
+    },
+    {
+        "id": 3,
+        "name": "รายการอัปเดตประจำวันของคุณจากแทร็กที่มีการเล่นมากที่สุดในขณะนี้ - ทั่วโลก",
+        "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg"
+    },
+    {
+        "id": 4,
+        "name": "รายการอัปเดตประจำวันของคุณจากแทร็กที่มีการเล่นมากที่สุดในขณะนี้ - ประเทศไทย",
+        "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_th_default.jpg"
+    },
+    {
+        "id": 5,
+        "name": "รายการอัปเดตประจำวันของคุณจากแทร็กที่เป็นกระแสที่สุดในขณะนี้ - ทั่วโลก",
+        "image": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_global_default.jpg"
+    },
+    {
+        "id": 6,
+        "name": "เพลย์ลิสต์สาธารณะรายการอัปเดตประจำวันของคุณจากแทร็กที่เป็นกระแสที่สุดในขณะนี้ - ประเทศไทย",
+        "image": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_th_default.jpg"
+    }
+]

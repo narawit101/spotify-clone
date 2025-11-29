@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "album_name": "ไฟกลางคืน",
+        "artis": "ยังโอม",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/ce/a5/b8cea5de-4bb6-fc81-22aa-6c8deebf543b/cover.jpg/375x375cc.webp"
+    },
+    {
+        "id": 2,
+        "album_name": "PUN",
+        "artis": "PUN",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqV-7IJuKHTOnlXVTZ4QP-yFPtu0esmxk7g&s"
+    },
+    {
+        "id": 3,
+        "album_name": "Alter ego",
+        "artis": "Lisa",
+        "image": "https://upload.wikimedia.org/wikipedia/th/0/0c/Lisa_-_Alter_Ego.png"
+    },
+    {
+        "id": 4,
+        "album_name": "Ruby",
+        "artis": "JENNIE",
+        "image": "https://upload.wikimedia.org/wikipedia/th/2/2e/Jennie_%E2%80%93_Ruby_%28album_cover%29.png"
+    },
+    {
+        "id": 5,
+        "album_name": "สวัสดีค้าบ",
+        "artis": "ํYUNGTARR",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOrXytL6OsKitBZ37RLgI836gjRy14PT-Lw&s"
+    },
+    {
+        "id": 6,
+        "album_name": "SOS",
+        "artis": "SZA",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/SZA_-_S.O.S.png"
+    },
+    {
+        "id": 7,
+        "album_name": "่SOS Deluxe: Lana",
+        "artis": "SZA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2UaIWq28XbG6la8lemxqwBn7vJDmqHvAaFg&s"
+    },
+    {
+        "id": 8,
+        "album_name": "4MILL",
+        "artis": "1 Mill, 4BANG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/01/67/20016751-7382-217a-8188-ed27a933e160/cover.jpg/600x600bf-60.jpg"
+    },
+    {
+        "id": 9,
+        "album_name": "BANKOK LEGACY",
+        "artis": "ยังโอม",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738c8ef01ec2df170143555605"
+    },
+    {
+        "id": 10,
+        "album_name": "สรัล",
+        "artis": "Saran",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BX3nLj7_1pye7goiLrRlDT-BDV5BjZeFUg&s"
+    }
+]
